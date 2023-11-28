@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    meta name="viewport" content="width=device
+
+
+
 ## Tutkinnon suorittaneen osaaminen
 Tieto- ja viestintätekniikan perustutkinnon suorittaneella on tieto- ja viestintätekniikan tehtävissä edellytetty ammattitaito, ja hän osaa toimia yhteistyökykyisesti tieto- ja viestintäteknisessä ympäristössä. Tutkinnon suorittanut osaa käyttää alan sanastoa, selvittää asiakkaan tarpeita ja tehdä asiakaslähtöisiä ratkaisuja tieto- ja viestintäteknisiin tehtäviin liittyen. Hän varmistaa, että työn lopputulos vastaa työlle asetettuja vaatimuksia.
 
