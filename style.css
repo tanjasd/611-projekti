@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+    --teksti: #333333;
+    --tausta: #eeeeee;
+}
+
+* {
+    box-sizing: border-box; 
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Robo', sans-serif;
+    background-color: var(--tausta);
+    color: var(--teksti);
+}
