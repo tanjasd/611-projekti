@@ -1,9 +1,29 @@
 <!DOCTYPE html>
-<html lang="fi">
+<html>
+    <html lang="fi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-    <title>611-projektin otsikko</title>
+    <title>611 syytä TiViin</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><img src="img/eseduyleiskuva.png" alt="Esedun logo">Tutkinnon suorittaneen osaaminen</h1>
+
+            </div>
+            <nav>
+                <ul>
+                  <li><a href="index.html"><Etusivu</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+   <section id="showcase"> 
+        <div class="container">
+
     
     
 # <h1>Osaamisen arviointi</h1>
