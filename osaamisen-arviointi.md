@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <html lang="fi">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
@@ -10,12 +10,11 @@
     <header>
         <div class="container">
             <div id="branding">
-                <h1><img src="img/eseduyleiskuva.png" alt="Esedun logo">Tutkinnon suorittaneen osaaminen</h1>
-
-            </div>
+                <h1><img src="img/eseduyleiskuva.png" alt="Esedun logo">Tutkinnon suorittaneen osaaminen</h1> 
+                </div>
             <nav>
                 <ul>
-                  <li><a href="index.html"><Etusivu</a></li>
+                    <li><a href="index.html"><h2>Etusivu</h2></a></li> 
                 </ul>
             </nav>
         </div>
@@ -23,15 +22,16 @@
 
    <section id="showcase"> 
         <div class="container">
+            <h1>Osaamisen arviointi</h1>
+            <p>Ammatilliset tutkinnon osat arvioidaan asteikolla 1–5 tutkinnon osan ammattitaitovaatimusten ja arviointikriteerien mukaisesti. Opiskelijan osaaminen arvioidaan tutkinnon osittain. Tutkinnon osan arvosana määräytyy sen mukaan, mille arviointiasteikon tasolle opiskelijan osaaminen kokonaisuutena parhaiten sijoittuu.</p>
+            <p>Yhteisten tutkinnon osien osa-alueet ja yritystoiminnan suunnittelu, työpaikkaohjaajaksi valmentautuminen, yrityksessä toimiminen ja huippuosaajana toimiminen tutkinnon osat arvioidaan asteikolla 1–5 tutkinnon osan ammattitaitovaatimusten, osaamistavoitteiden ja arviointikriteerien mukaisesti.</p> 
+            <p>Arvosanat 2 ja 4 määräytyvät seuraavasti:</p>
+            <p>2 = Opiskelijan osaamisen taso ylittää selkeästi 1-tason, mutta ei yllä 3-tasolle.</p>
+            <p>4 = Opiskelijan osaamisen taso ylittää selkeästi 3-tason, mutta ei yllä 5-tasolle.</p>
+        </div>
+    </section>
+    <footer id="alimmainen">
+    </footer>
 
-    
-    
-# <h1>Osaamisen arviointi</h1>
-
-<p>Ammatilliset tutkinnon osat arvioidaan asteikolla 1–5 tutkinnon osan ammattitaitovaatimusten ja arviointikriteerien mukaisesti. Opiskelijan osaaminen arvioidaan tutkinnon osittain. Tutkinnon osan arvosana määräytyy sen mukaan, mille arviointiasteikon tasolle opiskelijan osaaminen kokonaisuutena parhaiten sijoittuu.</p>
-
-<p>Yhteisten tutkinnon osien osa-alueet ja yritystoiminnan suunnittelu, työpaikkaohjaajaksi valmentautuminen, yrityksessä toimiminen ja huippuosaajana toimiminen tutkinnon osat arvioidaan asteikolla 1–5 tutkinnon osan ammattitaitovaatimusten, osaamistavoitteiden ja arviointikriteerien mukaisesti.</p> <p>Arvosanat 2 ja 4 määräytyvät seuraavasti:</p>
-
-<p>2 = Opiskelijan osaamisen taso ylittää selkeästi 1-tason, mutta ei yllä 3-tasolle.</p>
-
-<p>4 = Opiskelijan osaamisen taso ylittää selkeästi 3-tason, mutta ei yllä 5-tasolle.</p>
+</body>
+</html>
